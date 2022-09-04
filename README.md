@@ -9,7 +9,6 @@
 #### (4). BuildTool 에 따른 차이
 
 ## 2. Spring ##
-
 ### Spring Framework 대하여 정리하였습니다. ###
 #### (1). Spring / SpringBoot
 #### (2). Spring MVC
